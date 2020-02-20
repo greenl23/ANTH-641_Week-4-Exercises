@@ -8,3 +8,4 @@ __Do Not__ use the Frie-DissDatabase without full citation and attribution. “_
 
 2. Again in the Petra Excavation trenches set I worked on the clustering of the Label column.  this was a  bit tricker as far more had both errors and question marks.  primarily taking out extra spaces and changing "(possibly)" to the more standard "(?)"  This was again done to make the data easier to quiery.
 3. Similar work was done on the Petra Animal Bones dataset.  There were few changes beyond spacing such as turning "vert" into "vertebra"
+4. No cleaning done on the Pottery layer.
